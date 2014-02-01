@@ -1,5 +1,5 @@
 <?php
-/*	The Minimalist MVC (c) 2013 - Jeff Riedl (Jeff@CJRenterprises.biz)
+/*	The Minimalist MVC (c) 2013 - Jeff Riedl (GitHub - AgilityJeff)
 */
 // Functions ==========================================================================================================
 
